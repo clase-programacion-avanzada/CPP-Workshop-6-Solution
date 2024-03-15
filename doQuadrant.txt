@@ -1,0 +1,14 @@
+Analyze stock market trends:90
+Participate in a finance case competition:90
+Analyze a financial case study:90
+Analyze investment strategies:75
+Analyze investment portfolio performance:75
+Analyze company financial reports:75
+Analyze financial market data:75
+Review financial modeling techniques:60
+Research financial market trends:60
+Analyze financial statements:60
+Research financial derivatives:45
+Review financial risk management concepts:45
+Read about investment strategies:45
+Create a budget for a finance project:45

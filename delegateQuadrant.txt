@@ -1,0 +1,21 @@
+Work on engineering research project:180
+Develop a software project in Java:150
+Study for Materials Science exam:120
+Study for Control Systems exam:120
+Study for Fluid Mechanics exam:120
+Work on engineering design project:120
+Study for Mechanical Vibrations exam:120
+Study for Calculus exam:120
+Work on an engineering design challenge:90
+Work on engineering lab report:90
+Complete a Python programming assignment:60
+Practice programming in C++:60
+Prepare for Programming in Scala midterm:60
+Review engineering thermodynamics:60
+Practice coding in JavaScript:60
+Create a financial budget report:60
+Solve engineering mechanics problems:60
+Read a finance research paper:45
+Prepare for Finance Law class:45
+Read engineering journals:45
+Review thermodynamics concepts:45

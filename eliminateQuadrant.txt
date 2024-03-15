@@ -1,0 +1,44 @@
+Organize a gaming marathon:240
+Explore a nearby hiking trail:180
+Attend a gaming convention:180
+Host a gaming night with friends:150
+Study for Biology exam:120
+Watch an anime movie:120
+Binge-watch an anime season:120
+Start a DIY craft project:120
+Volunteer at a local shelter:120
+Play video games with friends:120
+Plan a cosplay for an anime convention:90
+Watch an anime series:90
+Clean the garage:90
+Participate in an online gaming tournament:90
+Stream gameplay on Twitch:90
+Attend a club meeting:90
+Join an anime club meeting:60
+Watch a documentary:60
+Participate in engineering club meeting:60
+Read a novel:60
+Practice playing the guitar:60
+Explore new gaming platforms:60
+Analyze anime character development:60
+Visit the library:60
+Collect rare in-game items:60
+Research gaming PCs and accessories:60
+Explore new video game releases:60
+Learn a new language:60
+Prepare presentation for engineering class:45
+Finish a challenging video game level:45
+Try a new recipe:45
+Discuss favorite anime episodes with friends:45
+Plan the weekend outing:45
+Review gaming strategy guides:45
+Complete math homework:45
+Sort old clothes for donation:40
+Prepare for Engineering Ethics class:30
+Go for a jog:30
+Create a budget for the month:30
+Prepare for Engineering Ethics discussion:30
+Complete a gaming achievement:30
+Organize bookshelf:30
+Write in a journal:20
+Write a thank-you note:15

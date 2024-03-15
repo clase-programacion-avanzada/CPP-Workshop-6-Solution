@@ -1,0 +1,93 @@
+Study for Biology exam;0;0;120
+Organize bookshelf;0;0;30
+Watch a documentary;0;0;60
+Clean the garage;0;0;90
+Read a novel;0;0;60
+Complete math homework;0;0;45
+Go for a jog;0;0;30
+Practice playing the guitar;0;0;60
+Write in a journal;0;0;20
+Visit the library;0;0;60
+Plan the weekend outing;0;0;45
+Sort old clothes for donation;0;0;40
+Try a new recipe;0;0;45
+Attend a club meeting;0;0;90
+Start a DIY craft project;0;0;120
+Learn a new language;0;0;60
+Explore a nearby hiking trail;0;0;180
+Volunteer at a local shelter;0;0;120
+Create a budget for the month;0;0;30
+Write a thank-you note;0;0;15
+Study for Calculus exam;0;1;120
+Analyze stock market trends;1;1;90
+Solve engineering mechanics problems;0;1;60
+Create a financial budget report;0;1;60
+Read a finance research paper;0;1;45
+Review thermodynamics concepts;0;1;45
+Attend a finance seminar;1;0;90
+Work on engineering design project;0;1;120
+Analyze financial statements;1;1;60
+Prepare for Engineering Ethics class;0;0;30
+Research engineering internship opportunities;1;0;60
+Read about investment strategies;1;1;45
+Practice programming in C++;0;1;60
+Study for Fluid Mechanics exam;0;1;120
+Analyze a financial case study;1;1;90
+Participate in engineering club meeting;0;0;60
+Research financial derivatives;1;1;45
+Prepare presentation for engineering class;0;0;45
+Review financial modeling techniques;1;1;60
+Work on engineering lab report;0;1;90
+Develop a software project in Java;0;1;150
+Analyze investment portfolio performance;1;1;75
+Study for Materials Science exam;0;1;120
+Attend a finance workshop;1;0;90
+Prepare for Engineering Ethics discussion;0;0;30
+Review financial risk management concepts;1;1;45
+Complete a Python programming assignment;0;1;60
+Study for Control Systems exam;0;1;120
+Research financial market trends;1;1;60
+Work on engineering research project;0;1;180
+Analyze investment strategies;1;1;75
+Read engineering journals;0;1;45
+Participate in a finance case competition;1;1;90
+Prepare for Programming in Scala midterm;0;1;60
+Analyze company financial reports;1;1;75
+Attend engineering career fair;1;0;90
+Create a budget for a finance project;1;1;45
+Study for Mechanical Vibrations exam;0;1;120
+Review engineering thermodynamics;0;1;60
+Practice coding in JavaScript;0;1;60
+Prepare for Finance Law class;0;1;45
+Work on an engineering design challenge;0;1;90
+Analyze financial market data;1;1;75
+Play video games with friends;0;0;120
+Watch an anime series;0;0;90
+Explore new video game releases;0;0;60
+Host a gaming night with friends;0;0;150
+Join an anime club meeting;0;0;60
+Finish a challenging video game level;0;0;45
+Participate in an online gaming tournament;0;0;90
+Binge-watch an anime season;0;0;120
+Research gaming PCs and accessories;0;0;60
+Attend a gaming convention;0;0;180
+Discuss favorite anime episodes with friends;0;0;45
+Stream gameplay on Twitch;0;0;90
+Collect rare in-game items;0;0;60
+Organize a gaming marathon;0;0;240
+Watch an anime movie;0;0;120
+Review gaming strategy guides;0;0;45
+Analyze anime character development;0;0;60
+Complete a gaming achievement;0;0;30
+Explore new gaming platforms;0;0;60
+Plan a cosplay for an anime convention;0;0;90
+Complete a last-minute assignment;1;0;120
+Submit scholarship applications before the deadline;1;0;90
+Finish a group project with a tight deadline;1;0;150
+Attend a mandatory but non-essential workshop;1;0;60
+Prepare for a surprise quiz in class;1;0;60
+Review class notes for an upcoming exam;1;0;90
+Respond to urgent emails from professors;1;0;30
+Complete paperwork for student loans;1;0;90
+Participate in a resume-building workshop;1;0;60
+Meet with an academic advisor for schedule changes;1;0;45
